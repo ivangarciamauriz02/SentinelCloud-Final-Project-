@@ -25,7 +25,7 @@ This project was developed as a collaborative graduation thesis. My core respons
 *   **Perimeter Hardening:** Implements strict least-privilege access rules dynamically.
 
 ## Tech Stack
-*   **Language:** Python 3.15
+*   **Language:** Python 3.12
 *   **Cloud Infrastructure:** Amazon Web Services (AWS VPC, Security Groups, IAM Roles)
 *   **SDK:** Boto3 (AWS SDK for Python)
 
@@ -79,7 +79,7 @@ Este proyecto fue desarrollado de forma colaborativa. Mis responsabilidades prin
 *   **Hardening Perimetral:** Implementación dinámica de reglas estrictas de mínimo privilegio.
 
 ## Tecnologías Utilizadas
-*   **Lenguaje:** Python 3.15
+*   **Lenguaje:** Python 3.12
 *   **Infraestructura Cloud:** Amazon Web Services (AWS VPC, Security Groups, IAM Roles)
 *   **SDK:** Boto3 (AWS SDK para Python)
 
