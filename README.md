@@ -1,6 +1,6 @@
 # SentinelCloud 🛡️
 
-*Read this in other languages: [ENG](#english) | [ESP](#versión-en-español)*
+*Read this in other languages: [ENG](#ENG) | [ESP](#ESP)*
 
 ---
 
