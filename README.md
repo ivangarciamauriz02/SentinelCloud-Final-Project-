@@ -1,4 +1,4 @@
-# SentinelCloud 🛡️
+# SentinelCloud
 
 *Read this in other languages: [ENG](#ENG) | [ESP](#ESP)*
 
