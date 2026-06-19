@@ -1,6 +1,6 @@
 # SentinelCloud
 
-*Read this in other languages: [ENG](#ENG) | [ESP](#ESP)*
+*Read this in other languages: [ENG](#eng) | [ESP](#esp)*
 
 ---
 
@@ -60,7 +60,7 @@ def isolate_compromised_host(instance_id, security_group_id):
 
 ## ESP
 
-La falta de seguridad en los dispositivos IoT en entornos corporativos representa un vector de ataque crítico. SentinelCloud mitiga este riesgo mediante la monitorización continua de logs de red y la ejecución de protocolos de cuarentena automatizados con Python cuando se detecta un comportamiento anómalo o una firma de amenaza conocida.
+Un sistema de defensa activa y seguridad de red automatizado diseñado para aplicar microsegmentación dinámica en dispositivos IoT dentro de entornos cloud. Desarrollado como Proyecto de Fin de Grado (Calificación: 8.0/10).
 
 ## Descripción del Proyecto
 La falta de seguridad en los dispositivos IoT en entornos corporativos representa un vector de ataque crítico. SentinelCloud mitiga este riesgo mediante la monitorización continua de logs de red y la ejecución de protocolos de cuarentena automatizados con Python cuando se detecta un comportamiento anómalo o una firma de amenaza conocida.
